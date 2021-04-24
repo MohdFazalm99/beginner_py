@@ -1,0 +1,36 @@
+First Name [Required],Last Name [Required],Email Address [Required],Password [Required],Password Hash Function [UPLOAD ONLY],Org Unit Path [Required],New Primary Email [UPLOAD ONLY],Recovery Email,Home Secondary Email,Work Secondary Email,Recovery Phone [MUST BE IN THE E.164 FORMAT],Work Phone,Home Phone,Mobile Phone,Work Address,Home Address,Employee ID,Employee Type,Employee Title,Manager Email,Department,Cost Center,Building ID,Floor Name,Floor Section,Change Password at Next Sign-In,New Status [UPLOAD ONLY],New Licenses [UPLOAD ONLY],Advanced Protection Program enrollment
+Abhijeet,M,abhijeet.m@demo.econz.net,****,,/,,,,,,,,,,,,,,,,,,,,False,,,False
+Aditya,Naik,aditya@demo.econz.net,****,,/,,,,,,,,,,,,,,,,,,,,False,,,False
+Demo,Account 1,admin@demo.econz.net,****,,/Demo,,info@econz.net,,,,,,,,,,,,,,,,,,False,,,False
+Anaswara,V,anaswara.vv@demo.econz.net,****,,/,,,,,,,,,,,,,,,,,,,,False,,,False
+Bharath,K,bharath@demo.econz.net,****,,/calendar,,varthay98@gmail.com,,,+919840869426,,,,,,,,,,,,,,,False,,,False
+Bhushan,L,bhushan.l@demo.econz.net,****,,/Attachment,,,,,,,,,,,,,,,,,,,,False,,,False
+Charles,J,charles@demo.econz.net,****,,/,,,,,,,,,,,,,,,,,,,,False,,,False
+Conference,Econz,conference@demo.econz.net,****,,/,,,,,,,,,,,,,,,,,,,,False,,,False
+Deepak,Yadav,deepak.y@demo.econz.net,****,,/,,,,,,,,,,,,,,,,,,,,False,,,False
+Deepak,Demo,deepaktest@demo.econz.net,****,,/,,,,,,,,,,,,,,,,,,,,False,,,False
+demogopika,user01,demogopikauser01@demo.econz.net,****,,/Demo 123,,,,,,,,,,,,,,,,,,,,False,,,False
+EDP,Demo,edp@demo.econz.net,****,,/,,,,,,,,,,,,,,,,,,,,True,,,False
+Fazal,mahmood,fazal.m@demo.econz.net,****,,/,,,,,,,,,,,,,,,,,,,,False,,,False
+Gopika,Das,gopika.d@demo.econz.net,****,,/,,,,,,,,,,,,,,,,,,,,False,,,False
+Hussain,K,hussain@demo.econz.net,****,,/,,,,,,,,,,,,,,,,,,,,False,,,False
+Admin1,.,hussaink@demo.econz.net,****,,/,,,,,,,,,,,,,,,,,,,,False,,,False
+kumar bharath,k,kumarbharath@demo.econz.net,****,,/calendar/Calender test,,,,,,,,,,,,,,,,,,,,False,,,False
+Lakshman,Parvathala,lakshman.p@demo.econz.net,****,,/,,,,,,,,,,,,,,,,,,,,False,,,False
+Lakshmi,Econz,lakshmi.s@demo.econz.net,****,,/theme restrict,,,,,,,,,,,,,,,,,,,,False,,,False
+Lokeshwaran,K,lokeshwaran@demo.econz.net,****,,/,,,,,,,,,,,,,,,,,,,,False,,,False
+Mahesh,Test,mahesh@demo.econz.net,****,,/,,,,,,,,,,,,,,,,,,,,False,,,False
+Mohanesh,Babu,mohanesh@demo.econz.net,****,,/,,,,,,,,,,,,,,,,,,,,False,,,False
+Mohit,Pandey,mohit@demo.econz.net,****,,/,,mohit.p@econz.net,,,,,,,,,,,,,,,,,,False,,,False
+Mohit,Pandey,mohitp@demo.econz.net,****,,/,,,,,,,,,,,,,,,,,,,,False,,,False
+Nikhil,Akhouri,nikhil@demo.econz.net,****,,/,,,,,,,,,,,,,,,,,,,,False,,,False
+Shruthi,S,shruthi@demo.econz.net,****,,/,,,,,,,,,,,,,,,,,,,,False,,,False
+Sibi,Ravi,sibi.r@demo.econz.net,****,,/,,,,,,,,,,,,,,,,,,,,False,,,False
+Hero,Singh,singh.hero@demo.econz.net,****,,/,,,,,,,,,,,,,,,,,,,,False,,,False
+Test02,user,test02@demo.econz.net,****,,/,,,,,,,,,,,,,,,,,,,,True,,,False
+test3,user,test3@demo.econz.net,****,,/,,,,,,,,,,,,,,,,,,,,True,,,False
+Deepak,Demo 2,testdeepak@demo.econz.net,****,,/,,,,,,,,,,,,,,,,,,,,True,,,False
+testgp,1,testgp@demo.econz.net,****,,/test001,,,,,,,,,,,,,,,,,,,,False,,,False
+Testuser1,cloud,testuser1@demo.econz.net,****,,/,,,,,,,,,,,,,,,,,,,,False,,,False
+testuser,2,testuser2@demo.econz.net,****,,/,,,,,,,,,,,,,,,,,,,,False,,,False
+Thirumalesh,P,thirumalesh.p@demo.econz.net,****,,/,,,,,,,,,,,,,,,,,,,,False,,,False
